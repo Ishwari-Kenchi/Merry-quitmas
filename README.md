@@ -72,7 +72,3 @@ No frameworks.
 No libraries.
 No excuses.
 
-
-Clone the repository
-
-git clone https://github.com/y
