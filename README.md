@@ -1,6 +1,6 @@
 🎄 MERRY-QUITMAS
 
-link-https://claude.ai/public/artifacts/7247e992-7416-4234-8ce9-6457ed99b499
+link-https://bot-haven-07115084.figma.site/
 
 The season of joy, reflection… and quitting halfway.
 
