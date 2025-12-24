@@ -1,5 +1,5 @@
 
-  🎄 Merry-quitmas
+  🎄 *Merry-quitmas*
 
 The season of joy, reflection… and quitting halfway.
 
